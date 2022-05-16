@@ -19,5 +19,5 @@
 # Lincense
 [(MIT)](https://github.com/kamuranoztrk/kodluyoruzilkrepo/blob/main/LICENSE)
 
-![ilk repomun bağlantısı](https://github.com/kamuranoztrk/kodluyoruzilkrepo)
+![ilk repomun bağlantısı burada](https://github.com/kamuranoztrk/kodluyoruzilkrepo)
 
